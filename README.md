@@ -10,7 +10,8 @@ Check Reference Existence: Verify if a reference exists in the repository.
 
 Write or Update References: Create or update a reference to point to a specific commit.
 
-## Optimize References: Pack references to improve repository performance.
+## Optimize References: 
+Pack references to improve repository performance.
 
 ## Technologies Used:
 C Programming Language: Git's core language for interacting with internal systems.
